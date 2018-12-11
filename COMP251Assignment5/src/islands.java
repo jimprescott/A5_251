@@ -4,7 +4,7 @@ import java.util.regex.*;
 import java.math.*;
 import static java.lang.System.out;
 
-
+// Counts the number of islands in a 2D array where a 1 represents land and a 0 represents water
 public class islands {
 	
 	public static void main(String[] args) {
